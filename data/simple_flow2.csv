@@ -1,0 +1,6 @@
+from,to,weight
+A,B,20
+B,C,40
+C,B,10
+C,A,15
+A,C,5

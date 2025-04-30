@@ -1,0 +1,650 @@
+gg;description
+0111100;Tarwe
+0111200;Maïs
+0111310;Gerst
+0111340;Overige graansoorten
+0111700;Peulvruchten
+0111810;Sojabonen
+0111823;Grondnoten(pinda's)
+0111899;Ov.oliehoud.zaden
+0113120;Koolsoorten
+0113310;Paprika's
+0113320;Komkommers
+0113340;Tomaten
+0113430;Uien
+0113511;Pootaardappelen
+0113512;Cons.aardappelen
+0113513;Zetmeelaardappelen
+0113529;Ov.eetb.wortel&knol
+0113690;Zaaizaden
+0113710;Suikerbieten
+0113800;Champignons
+0113990;Overige groenten
+0115100;Tabak
+0116900;Ov.plantaardig mater
+0119100;Voedergewassen
+0119200;Bloemen
+0123000;Citrusfruit
+0124100;Appels
+0124590;Overig fruit
+0125690;NootBanaanOlijf ed
+0127110;Koffie ongebrand
+0127140;Cacaobonen
+0127890;Gewassen neg
+0130009;Inv.eb.plantopstand.
+0130110;Bloembollen
+0130129;Boom/plant/stek/ent
+0141190;Runderen
+0141290;Rauwe melk
+0142120;Kalveren
+0143459;Overige diersoorten
+0146110;Varkens
+0146120;Biggen
+0147100;Pluimvee
+0147200;Eieren
+0149290;Ov.dierlijke product
+0149390;Wol/Huid,ruw
+0160000;Agrarische diensten
+0200000;Bosbouwproducten
+0300000;Verse VisWaterd(-pr)
+0500000;Steen-/bruinkool
+0610110;Aardolie ruw
+0610120;Aardgascondensaat
+0620000;Aardgas
+0710000;IJzererts
+0720000;Non-Ferro ertsen
+0811000;Natuursteen
+0812110;Zand
+0812120;Grind
+0812200;Klei
+0891000;Mineral.v.chem.ind.
+0892000;Turf
+0893000;Zout
+0899000;Delfstof neg
+0900000;Dnst. tbv delfst.win
+1009999;Loondnst voeding
+1011119;Kalfs-/rundvlees
+1011129;Varkensvlees
+1011191;Ov.vleessoorten
+1011192;Ov.slachtproducten
+1012000;Pluimveevlees
+1013000;Bewerkt vlees/worst
+1019001;Nt-eetb.slachtafval
+1020000;BewerkVisWaterd(-pr)
+1031000;Aardappelprod.
+1032000;Vruchten-/groentesap
+1039100;Bewerk.&diepvr.grnte 
+1039200;Bew.fruit&-conserven
+1041410;Veekoeken
+1041900;Oliën/vetten
+1042000;Margar.ea.spijsvett.
+1051111;Ondermelk
+1051112;Consumptiemelk
+1051120;Consumptieroom
+1051210;Magere melkpoeder
+1051220;Volle melkpoeder
+1051310;Boter
+1051320;Boterolie
+1051400;Kaas
+1051510;Gecondens.melk
+1051520;Yoghurt/GistZuurpr.
+1051556;Wei(-producten)
+1051590;Zuivelproducten neg.
+1052000;Consumptie-ijs
+1061100;Rijst
+1061200;Meel&deeg v.graan
+1061349;Ov.graanprod
+1062110;Zetmeel
+1062130;Div.suikersoorten
+1062900;Ov.zetmeelproducten
+1071110;Brood
+1071120;Gebak
+1072000;Ov.bakkerijproducten
+1073000;Deegwaren
+1081100;Suiker
+1081900;Melasse ea bypr.suik
+1082010;Chocoladeprod.
+1082020;Suikerwerk e.d.
+1082110;Cacaomassa
+1082120;Cacaoboter
+1082190;Cacaopoeder
+1083010;Koffie
+1083020;Thee
+1084000;Specerijen/saus
+1085000;Bereide maaltijden
+1086000;Kinder-/dieetvoeding
+1089110;Soepen
+1089123;Ov.bakkerijgrondst.
+1089190;Voedingsmiddelen neg
+1091019;Veevoeders
+1091020;Kunstkalvermelk
+1092000;Huisdierenvoer
+1101000;Gedistil.alcoh.drank
+1102340;Wijn,cider e.d.
+1105000;Bier
+1106000;Mout
+1107110;Mineraal-/bronwater
+1107190;Ov.niet-alcoh.drank
+1109999;Loondnst drank
+1200113;Sigaren
+1200115;Sigaretten
+1200120;Shag/pijptabak
+1200129;Cannabis
+1209999;Loondnst tabak
+1310000;Garens/Vezels
+1314159;Loondnst KledTexLeer
+1320000;Weefsels
+1392110;Beddengoed
+1392500;Woningtextiel
+1393000;Tapijten
+1395100;Textielvlies
+1399000;Ov.textielwaren
+1412000;Werkkleding
+1413939;Bovenkleding/Trui
+1414931;Onderkleding/Sok
+1419000;Overige kleding
+1510000;Leer/lederwaren
+1520000;Schoenen ed.&onderd.
+1609999;Loondnst hout(prod)
+1610000;Hout primair
+1621100;Triplex e.d.van hout
+1621200;Fineer/plaat v.hout
+1622000;Parket v.hout
+1623111;Raam/kozijn v.hout
+1623112;Deuren v.hout
+1623120;Ov.timmerwerk
+1624000;Emballage v.hout
+1629000;Ov.houtproducten
+1709999;Loondnst PapierKart
+1711000;Pulp/cellulose
+1712110;Krantenpapier
+1712199;Ov.papier/karton
+1712300;Pap./Kart.v.verpakk.
+1721000;Emballage v.pap/kart
+1722100;Hygienisch verband
+1722900;Huish/sanit.pap.war
+1723000;Kantoorbenod.v.pap.
+1724000;Wandbekleding
+1729199;Pap/kart.-waren neg
+1811000;Druk.v.dagbl.in opdr
+1813040;Zetten/graf.afwerk.
+1819000;Ov.drukken/printen
+1909999;Loondnst aardoliepr.
+1910000;Cokesovenproducten
+1920211;Benzine
+1920231;Nafta's
+1920241;Jetfuel
+1920249;Bunker. jetfuel
+1920261;Gasolie grondst.
+1920262;Diesel
+1920263;Gasolie verwarming
+1920269;Bunker. diesel
+1920270;Petroleum
+1920280;Stookolie
+1920289;Bunker. stookolie
+1920290;Smeerolie
+1920311;Vloeib.PropaanButaan
+1920312;Autogas (lpg)
+1920320;Overige gassen
+1920490;Briket&ov.aardoliepr
+2009999;Loondnst chemie
+2011000;Industriële gassen
+2012000;Kleurstoffen
+2013100;Splijt-/kweekstof
+2013240;Zuren
+2013890;Overige zouten
+2013990;Anorgan.grondst.e.d.
+2014110;OvAcycl.koolwat.stof
+2014120;Ov.Cycl.koolwat.stof
+2014199;Halogenen/Fenolen
+2014220;Alcoholen
+2014340;Carbon-/aminozuren
+2014529;Caprolactam ed
+2014639;Ethers ed.
+2014730;Aromaten
+2014745;Alcohol >80%
+2014990;Ov.organ.grondst.
+2015100;Kunstmest
+2015900;Ov.stikstofverbind.
+2016100;Polyetheen
+2016200;Polystyreen
+2016300;Pvc
+2016400;Polyacetaten
+2016510;Polypropyleen
+2016520;Overige polymeren
+2016540;Polyamide
+2016550;Polyurethaan
+2016599;Overige kunstharsen
+2017000;Synthetische rubber
+2020000;Bestrijdingsmid.
+2030100;Verf/vernis
+2030240;Drukinkten
+2030299;Ov.verfproducten
+2041000;Was-/reinig.mid.ed
+2041300;Zeep/poetsprod.
+2042110;Parfums ed.
+2042126;Huid-/haarverz.mid.
+2042199;Ov.kosmetische prod.
+2051000;Vuurw/Springstof/Luc
+2052900;Lijmen/gelatine
+2053000;Etherische oliën
+2059100;Fotochemische prod.
+2059910;Biobrandstof e.d.
+2059920;Chemische prod. neg
+2060000;Kunst-/synth.garens
+2109999;Loondnst farmacie
+2110910;Farmaceut.verbind.
+2110920;Farmaceut.grondst.
+2120100;Geneesmiddelen
+2120210;Sera/vaccins
+2120240;Gaas/verband
+2120290;Ov.farmac.prod.
+2120299;CocaïneHeroïneXTC
+2209999;Loondnst RubKunstst.
+2211000;Rubber banden
+2219000;Ov.Rubberprod.
+2221290;Staaf/slang v.kunst
+2221300;Plat.ongecel.v.kunst
+2221400;Ov.platen v.kunst
+2222000;Verpakking v.kunst.
+2223000;Bouwart.v.kunst.
+2229000;Ov.product.v.kunst.
+2309999;Loondnst bouwmater.
+2312199;Vlakglasproducten
+2313199;Glaz.FlesPotVaas ed.
+2314990;Ov.bewerkte glasprod
+2323400;Ov. Keramische prod.
+2339000;Keram.Bouwmat/Tegels
+2341000;Keram.sier/huish.art
+2351900;Cement/kalk/gips
+2361110;Stenen van beton
+2361199;Overige betonwaren
+2361900;Bouwelem.v.beton
+2363400;Beton/mortel
+2370000;Bewerkte natuursteen
+2390000;Bouwmaterialen neg
+2409999;Loondnst metalen
+2410120;Ferro primair
+2410543;Ferro gewalst, plat
+2410600;Ferro gewalst, rond
+2410790;Ferro profielen
+2420900;Ferro buizen
+2432120;Plaatststaal
+2439000;Overig staal
+2442110;Aluminium, ruw
+2442120;Aluminiumoxyde
+2442200;Alumin.halffabrik.
+2443120;Zink, ruw
+2443220;Zink halffabrik.
+2444100;Koper
+2444200;Koper halffabrik.
+2449190;Ov.non-ferrometalen
+2509999;Loondnst metaalprod
+2511000;Metal.constructiewerk
+2512000;Metal.deuren/ramen
+2521100;CV-ketels/radiatoren
+2521900;Metal.tanks/reserv.
+2530000;Metal.stoomketels
+2540000;Wapens&munitie
+2571390;Handgereedschap e.d.
+2572000;Hang-&sluitwerk
+2573490;Onderd.v.gereedschap
+2591290;Metalen vaten
+2593900;Spijker/veer/draad
+2594900;Bout/schroef/moer ed
+2599100;Metal.huish.sanit.
+2599200;Ov.metaalproducten
+2609999;Loondnst CompOv.elek
+2611390;Geïntegr.schakelaars
+2619000;Ov.elektron.compon.
+2620000;ComputRandapp&onderd
+2630100;Zendtoest./Tv-camera
+2630200;Telefoontoest.
+2630340;Onderd.zendtst/telef
+2640100;Radio's/telegrafie
+2640200;Televisies/monitors
+2640300;Audio-/video-appar.
+2640560;Ond.v.audio/video
+2650000;Meet-&regelappar.
+2660000;Med.instrum./-app.
+2670100;Foto-/filmapp&ond.
+2670200;Optische artik.&ond.
+2680000;Infodragers, leeg
+2709999;Loondnst elektr.app.
+2711000;Elek.mot/trafo&ond.
+2712900;Schakel/verdeel&ond.
+2720000;Batterijen/accu's
+2739000;Geïsoleerde kabel
+2740000;Verlichtingsart/-ond
+2751110;Koel-/vrieskasten
+2751130;Was-/droogmachines
+2751299;Elektr.kookappar.
+2752000;Hh.VerwKook(nt-elek)
+2759000;Ov.el.huish.app/ond.
+2790000;Ov.elektr.appar.ed
+2800008;Exp.2e-h.machines
+2800009;Inv.eb.mach./instal.
+2809100;Onderd.v.machines
+2809999;Loondnst machines
+2811000;Turbine/motor
+2812000;Pomp/compressor
+2814000;KraanKlepAfsluiter
+2820900;Ov.mach.v.alg.gebr.
+2822100;Takel/lier/Lift e.d.
+2823000;Kantoormachines
+2824000;Mech.handgereedsch.
+2825000;Machine koel/klimaat
+2829129;Filtertoestel
+2829210;Mach.rein./verp.fles
+2830000;Mach.v.landbouw
+2840000;Gereedschapswerktuig
+2890000;Mach.v.ov.bedr.takk.
+2900009;Inv.eb.wegvervoermid.
+2909999;Loondnst auto(-ond)
+2910100;Verbrandingsmotoren
+2910200;Personenauto's
+2910207;Cons.v.leaseauto's
+2910208;Exp.2e-h.pers.auto
+2910400;Vrachtauto's e.d.
+2910408;Exp.2e-h.vrachtauto
+2910590;BusOpleggerContainer
+2920100;Autocarrosseriën
+2920220;Caravans e.d.
+2939000;Ov.auto-onderdelen
+3000008;Exp.2e-h.ov.vervrmid
+3000009;Inv.eb.Ov.vervoermid.
+3009999;Loondnst OvTranspMid
+3011100;Marineschepen
+3011200;Vrachtschip/veerboot
+3011300;Ov.drijv.materieel
+3012000;Plezierboten
+3020000;Trein/tram&onderd.
+3030300;VliegtHeliZweefBall.
+3030590;Straalmotoren
+3030990;Ond.v.luchtvaartuig.
+3091000;Motorfietsen&onderd.
+3092000;Fietsen&ond(nt-mot.)
+3099090;Ov.wagens/transp.mid
+3100100;Zitmeubelen
+3100200;Meubeldelen
+3101000;Bedrijfsmeubelen
+3102000;Keukenmeubelen
+3103000;Matrassen
+3109120;Slaapkamermeubel.
+3109900;Overige meubelen
+3109999;Loondnst meubels
+3209999;Loondnst Medis/Ov.hh
+3210000;Sieraden/munten
+3220000;Muziekinstrum.
+3230000;Sportartik.&-mater.
+3240000;Spel/speelgoed
+3250400;Bril/contactlenzen
+3250900;Medische instrum/app
+3299010;Teken-/schrijfartik.
+3299020;Ov.artikelen neg
+3311900;Rep/Ondh/Inst.metaal
+3312900;Rep/Ondh/Inst.mach.
+3313900;Rep/Ondh/Inst.elek.
+3315000;Rep/Ondh/Inst.schip
+3316000;Rep/Ondh/Inst.vliegt
+3317000;Rep/Ondh.trein e.d.
+3500009;Marges energie
+3509999;Loondnst energie
+3510000;Elektriciteit
+3520120;Hoogovengas
+3530000;Stoom/Ww/Stadsverw.
+3540000;Netdiensten
+3600000;Water
+3789010;Milieudnst.overheid
+3789020;Milieudnst.partic.
+3789050;Reinigingsrechten
+3811510;Glasafval
+3811520;Oud papier
+3811540;Rubberafval
+3811550;Kunststofafval
+3811560;Afval textiel/leer
+3811581;Hoogovenslak
+3811582;Afval ferro
+3811583;Afval aluminium
+3811584;Afval koper
+3811585;Afval ov.non-Ferro
+3811591;Houtafval
+3812000;Afval gevaarl./gifst 
+4100011;Bouw nieuw_woning
+4100012;Bouw onderh_woning
+4100021;Bouw nieuw_gebouw
+4100022;Bouw onderh_gebouw
+4121009;Inv.eb.woningen
+4122009;Inv.eb.bedr.gebouw
+4200009;Inv.eb.gww-werken
+4211000;Wegen_gww
+4212129;SpoorVliegSpecif_gww
+4213000;Kunstwerken_gww
+4221200;KabelsBuizen_gww
+4291000;Waterbouw_gww
+4312310;SloopGrondwerk_won
+4312320;SloopGrondwerk_geb
+4312330;SloopGrondwerk_gww
+4320031;Instal.nieuw_gww
+4320032;Instal.onderh_gww
+4321011;Instal.nieuw_woning
+4321012;Instal.onderh_woning
+4321021;Instal.nieuw_gebouw
+4321022;Instal.onderh_gebouw
+4322011;Isolatie nieuw_won
+4322012;Isolatie onderh_won
+4322021;Isolatie nieuw_geb
+4322022;Isolatie onderh_geb
+4330011;Afwerk.nieuw_won
+4330012;Afwerk.onderh_won
+4330021;Afwerk.nieuw_geb
+4330022;Afwerk.onderh_geb
+4330030;Afwerking_gww
+4390011;Werkzam.nieuw_won
+4390012;Werkzam.onderh_won
+4390021;Werkzam.nieuw_geb
+4390022;Werkzam.onderh_geb
+4390030;Ov.werkzaamh.Bouw
+4511007;MargeCons.2eh.auto
+4519407;MargConsOv.2eh.voert
+4520000;RepOnderhWas_AutoMot
+4610000;Handelsdiensten
+4645009;Groothand.marges
+4700007;MargConsOv.2eh.goed
+4745009;Detailhand.marges
+4910000;Pass.verv.per trein
+4920000;Goed.verv.per trein
+4931000;Pass.vervoer TramBus
+4939900;Taxi/Ov.pers.vervoer
+4941000;Wegverv.vracht
+4950000;Vervoer via pijpleid
+4950519;Vervoersmarges
+5010300;Veerdiensten
+5010900;Gr.vaart passagiers
+5012200;ZeeKustVerh/sleepvrt
+5020100;Zee-/kustvaart goed.
+5030100;Pers.verv.binn.vaart
+5034200;Overige binnenvaart
+5040100;Goed.verv.binn.vaart
+5110180;Luchtv.pass.lijndnst
+5110190;Luchtv.pass.charters
+5112200;Lease/Verh.vliegtuig
+5121140;Luchtv.vrachtCharter
+5121190;Luchtv.vracht Lijn
+5210000;Opslag VeemPakhuis
+5221000;OvDnstverl.verv.land
+5222000;OvDstverl.verv.water
+5223000;OvDstverl.verv.lucht
+5224000;Laden/lossen vracht
+5229000;Vrachtbemiddeling
+5310000;Postdiensten
+5320000;Koeriersdiensten
+5510000;Hotels/pensions
+5523000;Overige logies
+5610000;Maaltijdverstrekking
+5620000;Catering
+5630000;Drankverstrekking
+5811100;Studieboeken
+5811120;Naslagwerk/Kalender
+5811300;E-boeken
+5811900;Overige boeken
+5813100;Gedrukte krant/dagbl
+5813200;Krant/dagbl.online
+5813300;Advertenties
+5814110;Gedrukte alg.tydschr
+5814120;Gedrukte vaktydschr
+5814200;Tijdschriften online
+5819140;Waardepapier
+5819150;Reclamedrukwerk
+5819190;Overig drukwerk
+5819200;InhoudOnline
+5821000;Computerspellen
+5829000;Softw.drager/online
+5911100;Filmprod./distrib.
+5911200;Film/Video op drager
+5914000;Bioscoop/filmhuis
+5920100;Geluidsprod/distrib.
+5920800;Muziek op drager/pap
+5920900;MuziekDownloads
+6012800;Radio/tv publiek
+6012900;Radio/tv commercieel
+6100000;Telecommunicatiednst
+6200000;Computerservicednst
+6200009;Inv.eb.software
+6310000;GegVerwerkWebhosting
+6320000;Persbureaus
+6411000;Provisie financ.inst
+6490000;FISIM (rentemarge)
+6511900;Levensverzekeringen
+6512000;Schadeverzekeringen
+6520000;Herverzekeringen
+6523000;Pensioenen
+6619000;Financ.bemiddeling
+6621291;Assurantiebemid.
+6621292;Ov.verzek.hulpdnst
+6820010;Verhuur van woningen
+6820020;Gebr.v.eig.koophuis
+6820040;Huur bedrijfsgebouw.
+6820050;Huur bedr.geb.Vrijg.
+6831000;Makel.bemid.onr.goed
+6832000;Makel.beheer onr.gd
+6910000;Rechtskundige dnsten
+6920000;AccountBelastAdmin.
+7010000;Intraconcerndiensten
+7020000;Econ.&manag.advies
+7111000;Architectdiensten
+7112000;Ingenieursdiensten
+7120000;KeuringControle
+7200000;Research&developm.
+7200009;Inv.eb.Research&Dev.
+7310000;Reclame-/advert.dnst
+7320000;Markt-/opinie onderz
+7410000;Industrieel ontwerp
+7420000;Fotografie/ontwikkel
+7430000;TolkenVertalen
+7490000;Ov.Special.zak.dnst.
+7500000;Veterinaire dnst
+7711000;Verhuur/lease auto
+7712000;VerhBusVracht z.ch.
+7740009;Inv.eb.ov.immat.act.
+7740100;Licenties/royalty's
+7790000;Verh/leaseOv.roer.gd
+7810000;Arbeidsbemiddeling
+7820100;Uitzendpersoneel
+7820200;Uitleen-/detachpers.
+7830000;Payrolling
+7911000;Reisbemiddeling
+7912000;Georganis. reizen
+7990000;Infoverstrek/Boeking
+8000000;Beveil./Opsporing
+8121000;Reinig.v.gebouwen
+8129000;Reinig.ov.objecten
+8130000;Hoveniersdiensten
+8200000;Ov.Zakelijke dnstn
+8290000;Bemid.Zorgverz.Overh
+8400010;Overh.dnst_NietMarkt
+8400040;Overheidsdnst_Markt
+8500010;Gesubs.onderwijsdnst
+8500020;Lev.ondw.a.derden
+8550600;Ov.partic.onderwijs
+8553000;Autorij-/vliegles ed
+8610900;Ziekenhuiszorg
+8621000;Huisartsenzorg
+8622000;Preventieve zorg
+8623000;Tandheelk.zorg
+8687100;GGZ-diensten
+8687200;Paramedische zorg
+8699000;Ov.curat.&ondersteun
+8723000;Gehandicaptenzorg
+8729000;Maatschap.opvang
+8730110;Verpleeghuiszorg
+8790130;Verzorghuiszorg
+8820000;Welzijnswerk
+8830000;Thuiszorgdiensten
+8891000;Kinderopvangdnst.
+8899110;Jeugdzorg
+9012000;Amusement
+9030000;Kunstvoorwerpen
+9101234;CultuurMuseaBiblio
+9102200;Museumstuk(nt-kunst)
+9200000;Gokwezen
+9310100;Sport BTW-vrij
+9310200;Sport BTW-plicht.
+9320000;Recreatie
+9410000;Bedrijfs/werkg.org.
+9420000;Werknemers organ.
+9490000;Ov.sociale organis.
+9511000;Repar.computers
+9524000;Repar.meubels
+9590000;Repar.cons.gd.ov.
+9601000;Kled/textielwasserij
+9602000;Kapper/schoonh.verz.
+9603000;Begrafenis/Crematie
+9604900;SaunaSol/OvPers.dnst
+9700000;Huishoud.diensten
+9992001;Imp.dnst.d.overheid
+9992002;Imp.zakl.reisverkeer
+9992003;Cons.Ned.in Buitenl.
+9992100;Cons.Buit.in Nederl.
+9993101;Transitohandel
+9993102;Transito import
+9994001;ConsIntermBouwg.BTW
+9994002;ConsIntermOvGoed.BTW
+9994003;ConsIntermBouwgVrBTW
+9994004;ConsIntermOvGdVr.BTW
+9995001;BTW
+9995003;Btw op grond
+9996001;CifFob Correctie
+9996002;CifFob Herclassific.
+B2NB3N;Overig inkomen
+D11;Lonen
+D12;Soc.premies
+D2901;Onroer.zaakbelast.
+D2902;Motorrijtuigbelast.
+D2903;Toeristenbelast.
+D2904;Heff.afvallozingen
+D2906;Zuiveringslasten
+D2907;Rioolrechten
+D2909;Emissierechten
+D2910;Ov.milieuheffingen
+D2911;PBO-heff/KvK-bijdr.
+D2913;Waterschapslasten
+D2914;NL-belast.op banken
+D2915;EU-belast.op banken
+D2916;Belast.op woningcorp
+D2917;Ov.belast. beloning
+D2918;Ov.npg-belastingen
+D3901;Loonsubsidie
+D3903;Npg.LandbEgalFd.subs
+D3906;R&D-subsidies
+D3907;Subs.opleid.med.spec
+D3908;Ov.npg-subsidies zorg
+D3909;Subsidies landbouw
+D3910;Subs.praktijkleren
+D3911;Overige npg-subsidies
+D3912;npg. Subs. Vervoer
+D3913;Subs. cultuur, sport & recreatie
+D3914;EU subs. R&D
+D3915;EU structuurfondsen
+D3916;EU overige subs.
+P51C;Afschrijvingen
